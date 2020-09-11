@@ -1,2 +1,2 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scottg489&show_icons=true&count_private=true&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottg489)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottg489&cache_seconds=1800&hide=python)
