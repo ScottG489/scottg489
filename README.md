@@ -4,5 +4,5 @@
 
 ![maintenance-status](https://img.shields.io/badge/maintenance-active-brightgreen)
 
-**ALL of my projects are actively maintained** regardless of activity. If you have a feature request or bug report please open an issue :)
+**ALL of my projects are actively maintained** regardless of activity. For feature requests or bug reports please open an issue :)
 ![](https://hit.yhype.me/github/profile?user_id=910809)
